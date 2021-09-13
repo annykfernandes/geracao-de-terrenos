@@ -12,10 +12,12 @@ Já a pasta geracao-de-terreno-v1/src possui a versão 1, onde os arquivos não 
 ## Executando o programa
 * Para a v0: 
 > gcc generator.c io.c funcs.c -o nome_do_arquivo -g -w
+
 > ./nome_do_arquivo
 
 * Para a v1: 
 > gcc generator.c io.c -o nome_do_arquivo -g -w
+
 > ./nome_do_arquivo
 
 
