@@ -1,24 +1,62 @@
-# Projeto final da disciplina de ITP: geração de terrenos 
+# Project Title
 
-Criando representações gráficas de terrenos em imagens PPM.
+Simple overview of use/purpose.
 
-## Descrição
+## Description
 
-Projeto feito para a disciplina de Introdução às Técnicas de Programação. A proposta é gerar terrenos aleatoriamente, criando um contorno com o algorítmo de disperção do ponto médio (midpoint displacement method). Aqui temos duas pastas, com duas tentativas minhas de exercutar a proposta. A pasta xxxxxxxxxx, possui um código feito de forma mais organizada, modularizada, com o uso de structs, entre outro. Porém, apesar de mais organizado, a referente v0 não gera a imagem, retornando um bendito segmentation fault.
-Já a pasta xxxxxx possui a versão 1, onde os arquivos não estão tão divididos, tudo está confinado em menos arquivos, porém, gera a imagem. 
+An in-depth paragraph about your project and overview of use.
 
-## Executando o programa
-Para a v0: 
->>>gcc generator.c io.c funcs.c -o nome_do_arquivo -g -w
->>>./nome_do_arquivo
+## Getting Started
 
-Para a v1: >>>gcc generator.c io.c -o nome_do_arquivo -g -w
->>>./nome_do_arquivo
+### Dependencies
 
+* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
+* ex. Windows 10
 
-## Relatos sobre o processo de desenvolvimento
+### Installing
 
-## Autoria
+* How/where to download your program
+* Any modifications needed to be made to files/folders
 
-Anny Klarice
+### Executing program
 
+* How to run the program
+* Step-by-step bullets
+```
+code blocks for commands
+```
+
+## Help
+
+Any advise for common problems or issues.
+```
+command to run if program contains helper info
+```
+
+## Authors
+
+Contributors names and contact info
+
+ex. Dominique Pizzie  
+ex. [@DomPizzie](https://twitter.com/dompizzie)
+
+## Version History
+
+* 0.2
+    * Various bug fixes and optimizations
+    * See [commit change]() or See [release history]()
+* 0.1
+    * Initial Release
+
+## License
+
+This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+
+## Acknowledgments
+
+Inspiration, code snippets, etc.
+* [awesome-readme](https://github.com/matiassingers/awesome-readme)
+* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+* [dbader](https://github.com/dbader/readme-template)
+* [zenorocha](https://gist.github.com/zenorocha/4526327)
+* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
