@@ -2,6 +2,8 @@
 
 Criando representações gráficas de terrenos em imagens PPM.
 
+<img src="/imagens/expvsreal.png" alt="expectativa versus realidade"/>
+
 ## Descrição
 
 Projeto feito para a disciplina de Introdução às Técnicas de Programação. A proposta é gerar terrenos aleatoriamente, criando um contorno com o algorítmo de disperção do ponto médio (midpoint displacement method). Aqui temos duas pastas, com duas tentativas minhas de exercutar a proposta. A pasta geracao-de-terreno-v0/src, possui um código feito de forma mais organizada, modularizada, com o uso de structs, entre outro. Porém, apesar de mais organizado, a referente v0 não gera a imagem, retornando um bendito segmentation fault.
